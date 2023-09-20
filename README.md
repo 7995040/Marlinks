@@ -21,7 +21,7 @@
     <main>
         <section>
             <h2>Sobre</h2>
-            <p>Bem-vindo à minha página.</p>
+            <p>Test.</p>
         </section>
         <section>
             <h2>Contato</h2>
@@ -29,7 +29,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2023 Minha Página</p>
+        <p>&copy; 2023 test</p>
     </footer>
 </body>
 </html>
