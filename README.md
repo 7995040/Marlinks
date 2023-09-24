@@ -1,35 +1,50 @@
 # Marlinks
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Página</title>
-    <link rel="stylesheet" href="estilo.css">
+    <title>MarllynX - Sua Melhor Escolha!</title>
+    <style>
+        /* Estilos CSS podem ser adicionados aqui */
+    </style>
 </head>
 <body>
     <header>
-        <h1>Minha Página</h1>
+        <h1>MarllynX - A Revolução em Tecnologia</h1>
+        <p>Descubra o futuro da inovação!</p>
     </header>
-    <nav>
+
+    <section id="produto">
+        <h2>Produto em Destaque</h2>
+        <img src="imagem-produto.jpg" alt="MarllynX">
+        <p>Apresentamos o incrível MarllynX, o dispositivo que vai mudar sua vida! Características:</p>
         <ul>
-            <li><a href="#">Página Inicial</a></li>
-            <li><a href="#">Sobre</a></li>
-            <li><a href="#">Contato</a></li>
+            <li>Desempenho de alta velocidade</li>
+            <li>Tela de alta resolução</li>
+            <li>Bateria de longa duração</li>
+            <li>Design elegante e moderno</li>
         </ul>
-    </nav>
-    <main>
-        <section>
-            <h2>Sobre</h2>
-            <p>Test.</p>
-        </section>
-        <section>
-            <h2>Contato</h2>
-            <p>Você pode entrar em contato conosco através do email: exemplo@email.com</p>
-        </section>
-    </main>
+        <p>Preço: R$999,99</p>
+        <button>Comprar Agora</button>
+    </section>
+
+    <section id="recursos">
+        <h2>Recursos Incríveis</h2>
+        <ul>
+            <li>Conectividade de última geração</li>
+            <li>Câmera de alta qualidade</li>
+            <li>Armazenamento amplo</li>
+            <li>Sistema operacional avançado</li>
+        </ul>
+    </section>
+
+    <section id="deporec">
+        <h2>Depoimentos de Clientes Satisfeitos</h2>
+        <p>"O MarllynX superou todas as minhas expectativas. É o melhor dispositivo que já tive!" - Cliente Satisfeito</p>
+        <p>"A qualidade da tela e a velocidade de processamento do MarllynX são impressionantes!" - Outro Cliente</p>
+    </section>
+
     <footer>
-        <p>&copy; 2023 test</p>
+        <p>© 2023 MarllynX. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
